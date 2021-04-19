@@ -1,23 +1,25 @@
-
-  #titolo{
-      text-align: center;
-  }  
-
-#cornice{
-    
-    background-color: aquamarine;
-    background-size: contain;
-    object-fit: cover;
-    width: 1600px;
-    height: 90px;
-    
-}
 #testo-bianco{
-    text-decoration: white;
+    color: white;
+    padding-left: 20px;
+    padding-top: 40px;
 }
-#img{
-    float: inline-start;
-    margin: 100px;
+#cornice{
+    background-color: turquoise;
+    background-image: url(./img/pattern.png);
+    background-repeat: repeat;
+    background-size: contain;
+    width: 1600px;
+    height: 80px;
+
+}
+#scrittaP{
+    color: gray;
+
+}
+#scritta{
+color: blue;
+
+}
+
     
     
-}
