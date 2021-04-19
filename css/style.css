@@ -1,8 +1,13 @@
 
-    
+  #titolo{
+      text-align: center;
+  }  
 
 #cornice{
+    
     background-color: aquamarine;
+    background-size: contain;
+    object-fit: cover;
     width: 1600px;
     height: 90px;
     
@@ -11,6 +16,8 @@
     text-decoration: white;
 }
 #img{
+    float: inline-start;
+    margin: 100px;
     
     
 }
