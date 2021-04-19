@@ -10,19 +10,25 @@
     background-size: contain;
     width: 1600px;
     height: 80px;
-
 }
+
 #scrittaP{
     color: gray;
-
 }
+
 #scritta{
 color: blue;
-
 }
+
 
     
   #evidenziatore{
       background: yellow;
+    }  
+    #testoinfo{
+        background: blue;
+    }
+    #coloretabella{
+        color: white;
+    }
       
-  }  
