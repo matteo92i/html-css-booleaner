@@ -1,3 +1,8 @@
-testo-centrale{
+#testo-centrale{
     text-align: center;
+}
+#cornice{
+    background-color: aquamarine;
+    width: 699px;
+    height: 80px;
 }
